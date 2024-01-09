@@ -1,7 +1,6 @@
 
 
-<div style="height:40px;display:flex;flex-direction:row;align-items:center;justify-content:center;"><img src="./support/jarvis.png" width="40px"/><h1 style="padding:0;margin:0;padding-left:1rem !important;border:none" align="center"> Hi there, we are <a href="https://www.jarvisai.news/">jarvisAI News</a></h1><h1 style="padding:0;margin:0;padding-left:1rem !important;border:none">📰</h1></div>
-
+# <div align="center"> ![Jarvis](./support/jarvis.png) Hi there, we are [jarvisAI News](https://www.jarvisai.news/) 📰</div>
 ---
 
 <div align="center" style="padding:1rem"><img src="./support/jarvis_office.jpeg" alt="JarvisAI Office"/></div>
