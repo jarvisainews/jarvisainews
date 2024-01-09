@@ -1,6 +1,6 @@
 
 
-# <div align="center"> ![Jarvis](./support/jarvis.png) Hi there, we are [jarvisAI News](https://www.jarvisai.news/) 📰</div>
+# <div align="center"> ![Jarvis](./support/logo.png) Hi there, we are [jarvisAI News](https://www.jarvisai.news/) 📰</div>
 ---
 
 <div align="center" style="padding:1rem"><img src="./support/jarvis_office.jpeg" alt="JarvisAI Office"/></div>
