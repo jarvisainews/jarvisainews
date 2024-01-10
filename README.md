@@ -22,17 +22,17 @@
 
 <p font-size="1.5rem">
 
-### An AI Service Aggregate
+### <img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="32" align="center"/> AI Service Aggregate
 -  #### Creates relations from similarities and ratings from enagements. See how it works at [The Algorithm](https://github.com/jarvisainews/the-algorithm).
 
-### A Forum to Discuss Latest Topics
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" align="center"/> A Forum to Discuss Latest Topics
 - #### A decentralized environment to discuss everything related to AI.
 - #### Share your experinces using services, talk about the latest news, or create a topic on your development.
 
-### A News Outlet
+### <img src="https://media.giphy.com/media/d72o5RXxDCHMhGXf5v/giphy-downsized.gif" width="32" align="center"/> A News Outlet
 - #### Assimilation of information and latest topics from online sources into one location.
 
-### A Promotional Website for your AI service
+### <img src="https://media.giphy.com/media/daUNvsWuU3s8WeLnq3/giphy.gif" width="32" align="center"/> A Promotional Website for your AI service
 - #### Increase your web flow with promoting on [jarvisAI](https://www.jarvisai.news/)
 
 
