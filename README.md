@@ -1,28 +1,27 @@
+<h1> Hi there, we are <a href="https://www.jarvisai.news/">JarvisAI News</a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
+
+[![Twitter: jarvisainews](https://img.shields.io/twitter/follow/jarvisainews?style=social)](https://twitter.com/jarvisainews)
+[![Linkedin: jarvisainews](https://img.shields.io/badge/-jarvisainews-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jarvisainews/)](https://www.linkedin.com/in/jarvisainews/)
+[![GitHub jarvisainews](https://img.shields.io/github/followers/jarvisainews?label=follow&style=social)](https://github.com/jarvisainews)
+
+<div align="center"><img src="./support/jarvis_office.jpeg" alt="JarvisAI Office"/></div>
+<div height="2rem" width="100%"> </div>
 
 
-# <div align="center"> <img src="./support/logo.png" alt="Jarvis" align="center"/> Hi there, we are [jarvisAI News](https://www.jarvisai.news/) 📰</div>
----
+# <div align="left"> <img src="./support/jarvis_pixel.png" alt="Jarvis" align="center"/> What is [jarvisAI](https://www.jarvisai.news/) ?</div>
 
-<div align="center" style="padding:1rem"><img src="./support/jarvis_office.jpeg" alt="JarvisAI Office"/></div>
+<p font-size="1.5rem">
 
----
+1. ## An AI Service Aggregate
+    -  ### Creates relations from similarities and ratings from enagements. See how it works at [The Algorithm](https://github.com/jarvisainews/the-algorithm).
+2. ## A Forum to Discuss Latest Topics
+    - ### A decentralized environment to discuss everything related to AI.
+    - ### Share your experinces using services, talk about the latest news, or create a topic on your development.
 
-<div style="padding:1rem 0;height:50px;display:flex;flex-direction:row;align-items:center;justify-content:start;"><img src="./support/jarvis_pixel.png" width="50px" height="50px"/><h1 style="padding:0;margin:0;padding-left:1rem !important;border:none">What is <a href="https://www.jarvisai.news/">jarvisAI News</a> ?</div>
-<div style="font-size:1.5rem;padding-top:0.5rem;padding-left:25px;">
-<p>• An AI Service Aggregate</p>
-<p style="padding-left:25px;font-size:1.25rem">◦ Creates relations from similarities and ratings from enagements. See how it works at <a href="https://github.com/jarvisainews/the-algorithm">The Algorithm</a>.</p>
-<p>• A Forum to Discuss Latest Topics</p>
-<p style="padding-left:25px;font-size:1.25rem">◦ A decentralized environment to discuss everything related to AI.</p>
-<p style="padding-left:25px;font-size:1.25rem">◦ Share your experinces using services, talk about the latest news, or create a topic on your development.</p>
-<p>• A News Outlet</p>
-<p style="padding-left:25px;font-size:1.25rem">◦ Assimilation of information and latest topics from online sources into one location.</p>
-<p>• A Promotional Website for your AI service</p>
-<p style="padding-left:25px;font-size:1.25rem">◦ Increase your web flow with promoting on <a href="https://www.jarvisai.news/">jarvisAI</a>.</p>
-<p></p>
-<p></p>
-<p></p>
-</div>
-
+3. ## A News Outlet
+    - ### Assimilation of information and latest topics from online sources into one location.
+4. ## A Promotional Website for your AI service
+    - ### Increase your web flow with promoting on [jarvisAI](https://www.jarvisai.news/)
 
 
 <!--
@@ -54,4 +53,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# <div align="center"> <img src="./support/logo.png" alt="Jarvis" align="center"/> Hi there, we are [jarvisAI News](https://www.jarvisai.news/) 📰</div>
 -->
