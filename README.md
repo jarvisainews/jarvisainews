@@ -1,5 +1,4 @@
 <h1> Hi there, we are <a href="https://www.jarvisai.news/">JarvisAI News</a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
-<img align='right' src="./support/jarvis_pixel.png" width="230">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=56C6FF&random=false&width=435&lines=The+most+complete+AI+collection+available.)](https://git.io/typing-svg)
 
