@@ -13,6 +13,11 @@
 
 <div height="2rem" width="100%"> </div>
 
+### 
+### 
+
+![Jarvis Office](./support/jarvis_office.jpeg)
+
 
 # <div align="left"> <img src="./support/smjarvis_pixel.png" alt="Jarvis" align="center"/> What is [jarvisAI](https://www.jarvisai.news/) ?</div>
 
