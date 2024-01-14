@@ -27,7 +27,7 @@
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" align="center"/> A Forum to Discuss Latest Topics
 - #### A decentralized environment to discuss everything related to AI.
-- #### Share your experinces using services, talk about the latest news, or create a topic on your development.
+- #### Share your experiences using services, talk about the latest news, or create a topic on your development.
 
 ### <img src="https://media.giphy.com/media/d72o5RXxDCHMhGXf5v/giphy-downsized.gif" width="32" align="center"/> A News Outlet
 - #### Assimilation of information and latest topics from online sources into one location.
